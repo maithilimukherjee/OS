@@ -22,8 +22,7 @@ read -p "Enter the upper bound: " r
 
 for ((i=l; i<=r; i++)); do
     if [[ $(isPrime $i) == "true" ]]; then
-        echo "$i is a prime number."
-    else
-        echo "$i is not a prime number."
+        echo "$i"
+    
     fi
 done
