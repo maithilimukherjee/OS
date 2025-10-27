@@ -130,16 +130,6 @@ How to test signal programs:
 
 ---
 
-## Notes & recommendations
-
-- This repository contains small learning examples. The exact behavior (arguments, interactive prompts) is defined in each source file. Read the code for precise usage.
-- Consider adding:
-  - A top-level Makefile to build all C programs and place binaries in a `bin/` folder.
-  - A LICENSE file if you want to specify reuse terms.
-  - A CONTRIBUTING.md with guidelines if you expect collaborators.
-
----
-
 ## Quick links to files
 
 ZombiesAndOrphans
