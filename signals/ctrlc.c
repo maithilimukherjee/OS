@@ -12,7 +12,7 @@ void custom_handler(int sig) {
 int main() {
     // step 1: set custom handler
     signal(SIGINT, custom_handler);
-
+ 
     printf("try pressing ctrl + c now (custom handler active)\n");
     sleep(5);
 
