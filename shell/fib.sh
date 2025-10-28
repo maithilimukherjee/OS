@@ -7,7 +7,7 @@ echo "$a"
 echo  "$b"
 for (( i=2; i<n; i++ )); do
     term=$((a + b))
-    echo " $term"
+    echo "$term"
     a=$b
     b=$term
 done

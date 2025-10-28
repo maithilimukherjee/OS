@@ -9,3 +9,4 @@ for (( i=2; i<=n; i++ )); do
 done
 
 echo "Factorial of $n is: $fact"
+ 
