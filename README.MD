@@ -1,9 +1,6 @@
-# OS
+# OS Lab (PCC-CS592)
 
 A collection of operating-system experiments, kernel code, and related utilities intended for learning and exploration.
-
-Course: PCC-CS592 (Operating Systems Lab)
-CSE, 5th Sem, 3rd Year.
 
 Quick start
 - Clone the repo: git clone https://github.com/maithilimukherjee/OS
